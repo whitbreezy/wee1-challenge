@@ -10,6 +10,8 @@ View and clone the repository here:
 
 https://github.com/whitbreezy/week1-challenge
 
+## Usage
+ ![home page](assets/images/usage.png)
 
 ## License
 
